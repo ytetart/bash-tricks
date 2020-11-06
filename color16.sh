@@ -1,0 +1,22 @@
+#!/usr/bin/env bash
+
+# Original code from elinranmal
+# ( Source: https://gist.github.com/eliranmal/684aef6c6567e8d48dec2e1dc6deb144 )
+
+echo -e "\033[0mNC (No color)"
+echo -e "\033[0;30mBLACK\t\t\033[1;30mBOLD_BLACK"
+echo -e "\033[0;31mRED\t\t\033[1;31mBOLD_RED"
+echo -e "\033[0;32mGREEN\t\t\033[1;32mBOLD_GREEN"
+echo -e "\033[0;33mYELLOW\t\t\033[1;33mBOLD_YELLOW"
+echo -e "\033[0;34mBLUE\t\t\033[1;34mBOLD_BLUE"
+echo -e "\033[0;35mMAGENTA\t\t\033[1;35mBOLD_MAGENTA"
+echo -e "\033[0;36mCYAN\t\t\033[1;36mBOLD_YAN"
+echo -e "\033[0;37mWHITE\t\t\033[1;37mBOLD_WHITE"
+echo -e "\033[0;90mBRIGHT_BLACK\t\033[1;90mBOLD_BRIGHT_BLACK"
+echo -e "\033[0;91mBRIGHT_RED\t\033[1;91mBOLD_BRIGHT_RED"
+echo -e "\033[0;92mBRIGHT_GREEN\t\033[1;92mBOLD_BRIGHT_GREEN"
+echo -e "\033[0;93mBRIGHT_YELLOW\t\033[1;93mBOLD_BRIGHT_YELLO"
+echo -e "\033[0;94mBRIGHT_BLUE\t\033[1;94mBOLD_BRIGHT_BLUE"
+echo -e "\033[0;95mBRIGHT_MAGENTA\t\033[1;95mBOLD_BRIGHT_MAGENTA"
+echo -e "\033[0;96mBRIGHT_CYAN\t\033[1;96mBOLD_BRIGHT_CYAN"
+echo -e "\033[0;97mBRIGHT_WHITE\t\033[1;97mBOLD_BRIGHT_WHITE"
